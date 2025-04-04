@@ -25,8 +25,8 @@ Olá, Sou Rodrigo Macêdo Oliveira, tenho 20 anos e atualmente estou mergulhando
 />
 <img 
     align="left" 
-    alt="Latex"
-    title="Latex" 
+    alt="Azure"
+    title="Azure" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />

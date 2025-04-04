@@ -19,15 +19,16 @@ Olá, Sou Rodrigo Macêdo Oliveira, tenho 20 anos e atualmente estou mergulhando
     align="left" 
     alt="MySql" 
     title="MySql"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
+          
 <img 
     align="left" 
     alt="Azure"
     title="Azure" 
-    width="30px" 
+    width="23px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
           
@@ -36,7 +37,7 @@ Olá, Sou Rodrigo Macêdo Oliveira, tenho 20 anos e atualmente estou mergulhando
     align="left" 
     alt="Latex"
     title="Latex" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"         
 />

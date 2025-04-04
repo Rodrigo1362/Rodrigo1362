@@ -5,8 +5,6 @@
 Olá, Sou Rodrigo Macêdo Oliveira, tenho 20 anos e atualmente estou mergulhando no mundo da programação. Exploro a construção e desenvolvimento de código como um hobby, sempre buscando aprender e evoluir!
 
 ---
-
-### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="Python" 

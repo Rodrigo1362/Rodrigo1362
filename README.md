@@ -30,7 +30,13 @@ Olá, Sou Rodrigo Macêdo Oliveira, tenho 20 anos e atualmente estou mergulhando
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
           
-
+<img 
+    align="left"
+    alt="GitHub" 
+    width="30px" 
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+/>
 <img 
     align="left" 
     alt="Latex"

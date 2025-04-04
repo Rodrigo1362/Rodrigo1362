@@ -17,16 +17,17 @@ Olá, Sou Rodrigo Macêdo Oliveira, tenho 20 anos e atualmente estou mergulhando
     align="left" 
     alt="MySql" 
     title="MySql"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
+          
           
 <img 
     align="left" 
     alt="Azure"
     title="Azure" 
-    width="23px" 
+    width="25px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
           

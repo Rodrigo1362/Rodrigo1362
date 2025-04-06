@@ -61,7 +61,7 @@ Olá! Sou Rodrigo Macêdo Oliveira, tenho 20 anos e atualmente estou mergulhando
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Rodrigo1362&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Rodrigo1362&show_icons=true&theme=transparet&include_all_commits=true&locale=pt-br" 
   />
   
 
@@ -69,7 +69,7 @@ Olá! Sou Rodrigo Macêdo Oliveira, tenho 20 anos e atualmente estou mergulhando
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo1362&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo1362&theme=transparet&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
  
 
